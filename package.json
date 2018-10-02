@@ -1,0 +1,19 @@
+{
+  "name": "prayer-start-time",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "firebase": "^5.5.1",
+    "heroku-cli": "^7.0.9",
+    "jquery": "^3.3.1",
+    "jsdom": "^12.1.0",
+    "socket.io": "^2.1.1"
+  }
+}
